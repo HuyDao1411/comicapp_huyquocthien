@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "277706343592",
+    "firebase_url": "https://comicapp-57fcd-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "comicapp-57fcd",
+    "storage_bucket": "comicapp-57fcd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277706343592:android:7128182e3b2edd20ecee9d",
+        "android_client_info": {
+          "package_name": "com.example.comicappver2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6t7FbM6OlhAu-VBmMAS6-2Jlx7M0IhkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
